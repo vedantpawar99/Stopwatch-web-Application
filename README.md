@@ -1,2 +1,2 @@
-# Stopwatch-web-Application
-Stopwatch  web Application
+# Stopwatch-Project
+A simple stopwatch program using HTML CSS and JavaScript!
